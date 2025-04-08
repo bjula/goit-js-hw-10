@@ -110,7 +110,7 @@ function startTimer() {
         titleSize: '16px',
         messageColor: '#fff',
         messageSize: '16px',
-        iconUrl: '../img/done.svg',
+        iconUrl: doneIcon,
         position: 'topRight',
         transitionIn: 'bounceInLeft',
         closeOnClick: true,
